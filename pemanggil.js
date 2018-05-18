@@ -21,11 +21,11 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x==î1?){xxx=î/2018/05/apa-itu-bitcoin.html"}
-if(x==î2?){xxx=î/2018/05/bagaimana-cara-saya-mendapatkan-bitcoin.html"}
-if(x==î3?){xxx=î/2018/05/apa-itu-penambangan-bitcoin-bitcoin.html"}
-if(x==î4?){xxx=î/2018/05/apa-itu-ethereum.html"}
-if(x==î5?){xxx=î/2018/05/bagaimana-cara-saya-menyimpan-ethereum.html"}a_to_ve[i].href="https://bitcoin-me1.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x==‚Äù1?){xxx=‚Äùhttps://bitcoin-me1.blogspot.com//2018/05/apa-itu-bitcoin.html"}
+if(x==‚Äù2?){xxx=‚Äùhttps://bitcoin-me1.blogspot.com/2018/05/bagaimana-cara-saya-mendapatkan-bitcoin.html"}
+if(x==‚Äù3?){xxx=‚Äùhttps://bitcoin-me1.blogspot.com/2018/05/apa-itu-penambangan-bitcoin-bitcoin.html"}
+if(x==‚Äù4?){xxx=‚Äùhttps://bitcoin-me1.blogspot.com/2018/05/apa-itu-ethereum.html"}
+if(x==‚Äù5?){xxx=‚Äùhttps://bitcoin-me1.blogspot.com/2018/05/bagaimana-cara-saya-menyimpan-ethereum.html"}a_to_ve[i].href="https://bitcoin-me1.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
